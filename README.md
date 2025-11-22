@@ -13,7 +13,7 @@
 I'm a **Data Engineer** passionate about building scalable data pipelines and transforming complex data into actionable insights. Based in Lille, France 🇫🇷
 
 - 🔭 Currently working on **Microsoft Fabric data pipelines** and **real-time analytics**
-- 🌱 Learning **Apache Kafka**, **Airflow**, and **dbt**
+- 🌱 Learning **Apache Spark**, **Terraform**, and **Kubernetes**
 - 💡 Interested in **Data Engineering**, **Computer Vision**, and **NLP**
 - 📫 Reach me at: **florian.abgrall750@gmail.com**
 
@@ -43,7 +43,9 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and tr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
 ## 📊 Featured Projects
 
