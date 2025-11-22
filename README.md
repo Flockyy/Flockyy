@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-I'm a **Data Engineer** passionate about building scalable data pipelines and transforming complex data into actionable insights. Based in Paris, France 🇫🇷
+I'm a **Data Engineer** passionate about building scalable data pipelines and transforming complex data into actionable insights. Based in Lille, France 🇫🇷
 
 - 🔭 Currently working on **Microsoft Fabric data pipelines** and **real-time analytics**
 - 🌱 Learning **Apache Kafka**, **Airflow**, and **dbt**
-- 💡 Interested in **MLOps**, **Computer Vision**, and **NLP**
+- 💡 Interested in **Data Engineering**, **Computer Vision**, and **NLP**
 - 📫 Reach me at: **florian.abgrall750@gmail.com**
 
 ## 🛠️ Tech Stack
